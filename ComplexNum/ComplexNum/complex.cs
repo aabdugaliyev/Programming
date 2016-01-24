@@ -77,7 +77,6 @@ namespace ComplexNum
                     res.a = res.a / i;
                     res.b = res.b / i;
                     i = 2;
-                    continue;
                 }
             }
             return res;
