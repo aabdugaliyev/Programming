@@ -77,7 +77,6 @@ namespace ComplexNum
                     res.a = res.a / i;
                     res.b = res.b / i;
                     i = 2;
-                    continue;
                 }
             }
             return res;
@@ -102,7 +101,7 @@ namespace ComplexNum
         public static complex operator +(complex c1, complex c2)
         {
             complex c3 = c1.Add(c2);
-            return c3;
+            return c3; 
         }
 
 
