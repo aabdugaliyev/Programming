@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Student
 {
+
     class Student
     {
         public static Student[] store = new Student[25];
@@ -22,15 +23,12 @@ namespace Student
 
         public static Student create(string name, string surname, int gpa)
         {
-            name = Console.ReadLine();
-            surname = Console.ReadLine();
-            string s_gpa = Console.ReadLine();
-            gpa = int.Parse(s_gpa);
-            Student st1 = new Student(name, surname, gpa);
-            store[k] = st1;
+            Student st = new Student(name, surname, gpa);
+            store[k] = st;
             k++;
-            return st1; 
+            return st; 
         }
+        
         
         public override string ToString()
         {
