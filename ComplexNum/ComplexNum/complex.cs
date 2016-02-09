@@ -82,7 +82,13 @@ namespace ComplexNum
             return res;
         }
 
-
+        public complex umn(complex c)
+        {
+            int c1 = this.a * c.a;
+            int c2 = this.b * c.b;
+            complex q = new complex(c1, c2);
+            return q;
+        }  
         public override string ToString()
         {
             return a + "/" + b;
@@ -103,6 +109,12 @@ namespace ComplexNum
             complex c3 = c1.Add(c2);
             return c3; 
         }
+        public static complex operator *(complex c1, complex c2)
+        {
+            complex c3 = c1.umn(c2);
+            return c3;
+        }
+
 
 
     }

@@ -12,7 +12,8 @@ namespace ComplexNum
         {
             complex a = complex.change(Console.ReadLine());
             complex b = complex.change(Console.ReadLine());
-            complex c = a + b;
+           // complex c = a + b;
+            complex c = a * b;
             Console.WriteLine(c);
             Console.ReadKey();
         }
