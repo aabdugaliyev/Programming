@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\ComplexNum\ComplexNum\bin\Debug\ComplexNum.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\ComplexNum\ComplexNum\bin\Debug\ComplexNum.exe
+C:\Users\Alisher\Desktop\Main\GitHub\ComplexNum\ComplexNum\bin\Debug\ComplexNum.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\ComplexNum\ComplexNum\obj\Debug\ComplexNum.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\ComplexNum\ComplexNum\obj\Debug\ComplexNum.exe
+C:\Users\Alisher\Desktop\Main\GitHub\ComplexNum\ComplexNum\obj\Debug\ComplexNum.pdb

@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\BigInteger\BigInteger\bin\Debug\BigInteger.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\BigInteger\BigInteger\bin\Debug\BigInteger.exe
+C:\Users\Alisher\Desktop\Main\GitHub\BigInteger\BigInteger\bin\Debug\BigInteger.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\BigInteger\BigInteger\obj\Debug\BigInteger.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\BigInteger\BigInteger\obj\Debug\BigInteger.exe
+C:\Users\Alisher\Desktop\Main\GitHub\BigInteger\BigInteger\obj\Debug\BigInteger.pdb

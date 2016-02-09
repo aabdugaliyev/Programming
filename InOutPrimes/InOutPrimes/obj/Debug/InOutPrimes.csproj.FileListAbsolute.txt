@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\InOutPrimes\InOutPrimes\bin\Debug\InOutPrimes.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\InOutPrimes\InOutPrimes\bin\Debug\InOutPrimes.exe
+C:\Users\Alisher\Desktop\Main\GitHub\InOutPrimes\InOutPrimes\bin\Debug\InOutPrimes.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\InOutPrimes\InOutPrimes\obj\Debug\InOutPrimes.exe
+C:\Users\Alisher\Desktop\Main\GitHub\InOutPrimes\InOutPrimes\obj\Debug\InOutPrimes.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\InOutPrimes\InOutPrimes\obj\Debug\InOutPrimes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\Conduct\Conduct\bin\Debug\Conduct.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\Conduct\Conduct\obj\Debug\Conduct.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\Conduct\Conduct\bin\Debug\Conduct.exe
+C:\Users\Alisher\Desktop\Main\GitHub\Conduct\Conduct\bin\Debug\Conduct.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\Conduct\Conduct\obj\Debug\Conduct.exe
+C:\Users\Alisher\Desktop\Main\GitHub\Conduct\Conduct\obj\Debug\Conduct.pdb

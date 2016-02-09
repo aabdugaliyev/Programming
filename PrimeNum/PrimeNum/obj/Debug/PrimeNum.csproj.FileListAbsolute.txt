@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\PrimeNum\PrimeNum\bin\Debug\PrimeNum.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\PrimeNum\PrimeNum\bin\Debug\PrimeNum.exe
+C:\Users\Alisher\Desktop\Main\GitHub\PrimeNum\PrimeNum\bin\Debug\PrimeNum.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\PrimeNum\PrimeNum\obj\Debug\PrimeNum.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\PrimeNum\PrimeNum\obj\Debug\PrimeNum.exe
+C:\Users\Alisher\Desktop\Main\GitHub\PrimeNum\PrimeNum\obj\Debug\PrimeNum.pdb

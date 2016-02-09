@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\Student\Student\bin\Debug\Student.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\Student\Student\bin\Debug\Student.exe
+C:\Users\Alisher\Desktop\Main\GitHub\Student\Student\bin\Debug\Student.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\Student\Student\obj\Debug\Student.exe
+C:\Users\Alisher\Desktop\Main\GitHub\Student\Student\obj\Debug\Student.pdb

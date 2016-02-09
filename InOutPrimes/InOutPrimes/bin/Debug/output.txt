@@ -1,0 +1,2 @@
+
+Minimum Prime is: 2

@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\InOut\InOut\bin\Debug\InOut.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\InOut\InOut\bin\Debug\InOut.exe
+C:\Users\Alisher\Desktop\Main\GitHub\InOut\InOut\bin\Debug\InOut.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\InOut\InOut\obj\Debug\InOut.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\InOut\InOut\obj\Debug\InOut.exe
+C:\Users\Alisher\Desktop\Main\GitHub\InOut\InOut\obj\Debug\InOut.pdb

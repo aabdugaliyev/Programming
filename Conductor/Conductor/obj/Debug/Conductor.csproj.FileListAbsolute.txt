@@ -1,0 +1,6 @@
+C:\Users\Alisher\Desktop\Main\GitHub\Conductor\Conductor\bin\Debug\Conductor.exe.config
+C:\Users\Alisher\Desktop\Main\GitHub\Conductor\Conductor\obj\Debug\Conductor.csprojResolveAssemblyReference.cache
+C:\Users\Alisher\Desktop\Main\GitHub\Conductor\Conductor\bin\Debug\Conductor.exe
+C:\Users\Alisher\Desktop\Main\GitHub\Conductor\Conductor\bin\Debug\Conductor.pdb
+C:\Users\Alisher\Desktop\Main\GitHub\Conductor\Conductor\obj\Debug\Conductor.exe
+C:\Users\Alisher\Desktop\Main\GitHub\Conductor\Conductor\obj\Debug\Conductor.pdb
